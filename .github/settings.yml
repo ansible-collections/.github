@@ -13,9 +13,8 @@ repository:
   allow_merge_commit: false
   allow_rebase_merge: true
 
-# Labels: define labels for Issues and Pull Requests
 labels:
-  # States
+# States
   - name: ci_verified
     color: b60205
     description: Push fixes to PR branch to re-run CI.
@@ -67,7 +66,7 @@ labels:
   - name: pr_day
     color: 0e8a16
     description: Has been reviewed during a PR review Day. https://github.com/ansible/community/issues/407
-  # components
+# components
   - name: action
     color: 71bc1c
   - name: become
