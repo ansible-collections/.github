@@ -14,7 +14,7 @@ repository:
   allow_rebase_merge: true
 
 labels:
-# States
+  # States
   - name: ci_verified
     color: b60205
     description: Push fixes to PR branch to re-run CI.
