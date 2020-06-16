@@ -1,6 +1,8 @@
 ###
 # https://probot.github.io/apps/settings/
 #
+# Used by some over repos via https://github.com/ansible-collections/community.general/blob/master/.github/settings.yml
+
 repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
   has_issues: true
