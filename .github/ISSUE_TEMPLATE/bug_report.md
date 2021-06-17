@@ -26,6 +26,12 @@ assignees:
 
 ```
 
+##### COLLECTION VERSION
+<!--- Paste verbatim output from "ansible-galaxy collection list | grep <collection>" (for example, community.general) between quotes -->
+```paste below
+
+```
+
 ##### CONFIGURATION
 <!--- Paste verbatim output from "ansible-config dump --only-changed" between quotes -->
 ```paste below
