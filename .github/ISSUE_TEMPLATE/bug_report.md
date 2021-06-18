@@ -27,7 +27,9 @@ assignees:
 ```
 
 ##### COLLECTION VERSION
-<!--- Paste verbatim output from "ansible-galaxy collection list | grep <collection>" (for example, community.general) between quotes -->
+<!--- Paste verbatim output from "ansible-galaxy collection list | grep <collection>"  between the quotes
+for example: ansible-galaxy collection list | grep community.general
+-->
 ```paste below
 
 ```
