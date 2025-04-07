@@ -1,2 +1,5 @@
-* @ansible/ansible-commit
-.github/ @ansible/ansible-community
+# CODEOWNERS
+#
+# Defines people or teams that are responsible for code in a repository.
+# For more information, refer to the following documentation:
+# https://help.github.com/en/articles/about-code-owners
